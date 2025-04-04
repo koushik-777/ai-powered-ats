@@ -10,8 +10,8 @@ from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 
 # Email configuration
-EMAIL_SENDER = "kmmindset0@gmail.com"  # Your Gmail address
-EMAIL_PASSWORD = "kmqd ovyj rxxt ehpa"    # App password (not your regular password)
+EMAIL_SENDER = ""  # Your Gmail address
+EMAIL_PASSWORD = ""    # App password (not your regular password)
 EMAIL_SMTP_SERVER = "smtp.gmail.com"
 EMAIL_SMTP_PORT = 587
 
