@@ -1,0 +1,33 @@
+{
+  "candidates": [
+    {
+      "name": "John Doe",
+      "match_percentage": 85,
+      "skills": ["Python", "Machine Learning", "Data Analysis"],
+      "experience": "5 years in software development",
+      "education": "Master's in Computer Science",
+      "certifications": ["AWS Certified Solutions Architect"]
+    },
+    {
+      "name": "Jane Smith",
+      "match_percentage": 78,
+      "skills": ["Java", "Project Management", "Agile"],
+      "experience": "4 years in project management",
+      "education": "Bachelor's in Information Technology",
+      "certifications": ["PMP"]
+    }
+  ],
+  "job_description": {
+    "title": "Software Engineer",
+    "required_skills": ["Python", "Machine Learning"],
+    "preferred_skills": ["Data Analysis", "AWS"],
+    "experience": "3-5 years",
+    "education": "Bachelor's or Master's in Computer Science or related field",
+    "responsibilities": [
+      "Develop and maintain software applications",
+      "Collaborate with cross-functional teams",
+      "Participate in code reviews"
+    ]
+  },
+  "timestamp": "2023-10-01T12:00:00Z"
+}
